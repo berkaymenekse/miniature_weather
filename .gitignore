@@ -34,3 +34,4 @@ GoogleService-Info.plist
 # Android Profiling
 *.hprof
 node_modules
+.env
