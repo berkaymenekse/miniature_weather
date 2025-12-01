@@ -15,7 +15,7 @@
     },
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.berkayexpo.miniatureweather",
+      "bundleIdentifier": "com.berkay.miniatureweather",
       "googleServicesFile": "./GoogleService-Info.plist",
       "infoPlist": {
         "UIViewControllerBasedStatusBarAppearance": true,
@@ -29,7 +29,7 @@
       },
       "edgeToEdgeEnabled": true,
       "predictiveBackGestureEnabled": false,
-      "package": "com.berkayexpo.miniatureweather",
+      "package": "com.berkay.miniatureweather",
       "googleServicesFile": "./google-services.json",
       "statusBar": {
         "translucent": true,
@@ -42,7 +42,6 @@
     "plugins": [
       "expo-router",
       "@react-native-firebase/app",
-      "@react-native-firebase/auth",
       [
         "expo-build-properties",
         {
